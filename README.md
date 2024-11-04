@@ -3,7 +3,6 @@
 </p>
 <p align="center"><h1 align="center">REACT-VITE-CALCULATOR</h1></p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/Yoyobun1/react-calculator?style=default&logo=opensourceinitiative&logoColor=white&color=ff0900" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Yoyobun1/react-calculator?style=default&logo=git&logoColor=white&color=ff0900" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Yoyobun1/react-calculator?style=default&color=ff0900" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Yoyobun1/react-calculator?style=default&color=ff0900" alt="repo-language-count">
@@ -27,7 +26,6 @@
   - [🤖 Usage](#🤖-usage)
   - [🧪 Testing](#🧪-testing)
 - [🔰 Contributing](#-contributing)
-- [🙌 Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -70,59 +68,8 @@
 
 ### 📂 Project Index
 <details open>
-	<summary><b><code>REACT-CALCULATOR/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Yoyobun1/react-calculator/blob/master/package-lock.json'>package-lock.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Yoyobun1/react-calculator/blob/master/vite.config.js'>vite.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Yoyobun1/react-calculator/blob/master/package.json'>package.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Yoyobun1/react-calculator/blob/master/index.html'>index.html</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Yoyobun1/react-calculator/blob/master/eslint.config.js'>eslint.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- src Submodule -->
-		<summary><b>src</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/Yoyobun1/react-calculator/blob/master/src/index.css'>index.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Yoyobun1/react-calculator/blob/master/src/App.css'>App.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Yoyobun1/react-calculator/blob/master/src/App.jsx'>App.jsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/Yoyobun1/react-calculator/blob/master/src/main.jsx'>main.jsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
 
+		
 ---
 ## 🚀 Getting Started
 
@@ -222,11 +169,5 @@ Run the test suite using the following command:
    </a>
 </p>
 </details>
-
----
-
-## 🙌 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
 
 ---
