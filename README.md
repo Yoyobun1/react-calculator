@@ -64,12 +64,7 @@
     │   └── main.jsx
     └── vite.config.js
 ```
-
-
-### 📂 Project Index
-
-		
----
+	
 ## 🚀 Getting Started
 
 ### ☑️ Prerequisites
