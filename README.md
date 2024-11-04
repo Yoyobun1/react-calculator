@@ -67,7 +67,6 @@
 
 
 ### 📂 Project Index
-<details open>
 
 		
 ---
