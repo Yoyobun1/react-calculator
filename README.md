@@ -94,10 +94,11 @@ Install react-calculator using one of the following methods:
 3. Install the project dependencies:
 
 
-**Using `npm`** &nbsp; [<img align="center" src="" />]()
+**Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/NPM-CC3534.svg?style=for-the-badge&logo=npm&logoColor=white" />](https://www.npmjs.com/)
+
 
 ```sh
-❯ echo 'INSERT-INSTALL-COMMAND-HERE'
+❯ npm install
 ```
 
 
@@ -105,19 +106,21 @@ Install react-calculator using one of the following methods:
 
 ### 🤖 Usage
 Run react-calculator using the following command:
-**Using `npm`** &nbsp; [<img align="center" src="" />]()
+**Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/NPM-CC3534.svg?style=for-the-badge&logo=npm&logoColor=white" />](https://www.npmjs.com/)
+
 
 ```sh
-❯ echo 'INSERT-RUN-COMMAND-HERE'
+❯ npm start
 ```
 
 
 ### 🧪 Testing
 Run the test suite using the following command:
-**Using `npm`** &nbsp; [<img align="center" src="" />]()
+**Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/NPM-CC3534.svg?style=for-the-badge&logo=npm&logoColor=white" />](https://www.npmjs.com/)
+
 
 ```sh
-❯ echo 'INSERT-TEST-COMMAND-HERE'
+❯ npm test
 ```
 
 
